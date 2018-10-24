@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cat-alarm/cat-alarm.iml" filepath="$PROJECT_DIR$/cat-alarm/cat-alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-client/cat-client.iml" filepath="$PROJECT_DIR$/cat-client/cat-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-consumer/cat-consumer.iml" filepath="$PROJECT_DIR$/cat-consumer/cat-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-core/cat-core.iml" filepath="$PROJECT_DIR$/cat-core/cat-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-hadoop/cat-hadoop.iml" filepath="$PROJECT_DIR$/cat-hadoop/cat-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-home/cat-home.iml" filepath="$PROJECT_DIR$/cat-home/cat-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>

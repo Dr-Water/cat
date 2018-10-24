@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cat-alarm" />
+        <module name="cat-client" />
+        <module name="cat-consumer" />
+        <module name="cat-core" />
+        <module name="cat-hadoop" />
+        <module name="cat-home" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cat-alarm" target="1.7" />
+      <module name="cat-client" target="1.7" />
+      <module name="cat-consumer" target="1.7" />
+      <module name="cat-core" target="1.7" />
+      <module name="cat-hadoop" target="1.7" />
+      <module name="cat-home" target="1.7" />
+      <module name="parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
